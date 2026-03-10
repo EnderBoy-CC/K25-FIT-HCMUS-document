@@ -1,3 +1,5 @@
+# CƠ SỞ LẬP TRÌNH
+
 Lý thuyết: thầy Hồ Tuấn Thanh và thầy Phạm Nguyễn Sơn Tùng
 Thực hành: thầy Mai Anh Tuấn 😭
 
