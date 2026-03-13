@@ -11,4 +11,6 @@ Giảng viên: cô Thùy Liên.
 
 Lớp hơn 80 con người thấy nhiều nữ quá không quen 🤡
 
-Sau khi cô xem sĩ số, thì cô nói chia thành n nhóm x người, tự do chọn thành viên nhóm và chủ đề để thuyết trình, lấy điểm thi GK.
+Sau khi cô xem sĩ số, thì cô nói chia thành n nhóm x người, tự do chọn thành viên nhóm và chủ đề (trong n) để thuyết trình, lấy điểm thi GK.
+
+8 slide PLĐC mình nghĩ vậy là đủ, bạn mình học cô học kỳ trước giống y chang nên thôi.
