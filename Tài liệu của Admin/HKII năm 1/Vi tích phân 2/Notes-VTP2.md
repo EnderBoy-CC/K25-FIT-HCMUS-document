@@ -1,4 +1,4 @@
-# VI TÍCH PHÂN 2 - MTH
+# VI TÍCH PHÂN 2 - MTH00022
 
 Lý thuyết: thầy Nguyễn Văn Thùy 💜
 

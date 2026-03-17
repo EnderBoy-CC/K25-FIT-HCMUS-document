@@ -1,4 +1,4 @@
-# CẤU TRÚC DỮ LIỆU VÀ GIẢI THUẬT - CSC
+# CẤU TRÚC DỮ LIỆU VÀ GIẢI THUẬT - CSC10004
 
 ## Giới thiệu sơ lược
 
