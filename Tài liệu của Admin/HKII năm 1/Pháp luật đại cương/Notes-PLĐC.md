@@ -23,5 +23,12 @@ Danh sách 14 chủ đề (của lớp mình):
 - Chủ đề 3:
 - Chủ đề 4:
 - Chủ đề 5: Tìm hiểu nội dung về Quy phạm pháp luật.
--
+- Chủ đề 6:
+- Chủ đề 7:
+- Chủ đề 8: Tìm hiểu nội dung về trách nhiệm pháp lý.
+- Chủ đề 9:
+- Chủ đề 10:
+- Chủ đề 11:
+- Chủ đề 12:
+- Chủ đề 13:
 - Chủ đề 14: Tìm hiểu nội dung về bồi thường thiệt hại ngoài hợp đồng trong Bộ luật Dân sự Việt Nam năm 2015.
