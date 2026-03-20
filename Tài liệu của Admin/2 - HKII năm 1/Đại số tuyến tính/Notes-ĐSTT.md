@@ -1,10 +1,10 @@
-# ĐẠI SỐ TUYẾN TÍNH - MTH
+# ĐẠI SỐ TUYẾN TÍNH - MTH00030
 
 ## Giới thiệu sơ lược
 
 Lý thuyết: thầy Lê Văn Luyện 💜
  
-Thực hành: ...
+Thực hành: thầy Nguyễn Thành Lộc
 
 Điểm thành phần:
 - Chuyên cần, nộp bài tập: 10% (không vắng quá 3 buổi).

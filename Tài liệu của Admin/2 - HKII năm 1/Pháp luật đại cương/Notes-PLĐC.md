@@ -28,7 +28,9 @@ Danh sách 14 chủ đề (của lớp mình):
 - Chủ đề 8: Tìm hiểu nội dung về trách nhiệm pháp lý.
 - Chủ đề 9:
 - Chủ đề 10:
-- Chủ đề 11:
+- Chủ đề 11: Tìm hiểu về một số quy định chung về tội phạm (khái niệm, phân loại, thời hiệu truy cứu trách nhiệm hình sự) theo quy định của Bộ luật Hình sự năm 2015 (sửa đổi, bổ sung năm 2017, 2025).  
 - Chủ đề 12:
-- Chủ đề 13:
+- Chủ đề 13: Tìm hiểu nội dung về thừa kế bộ luật dân sự 2015.
 - Chủ đề 14: Tìm hiểu nội dung về bồi thường thiệt hại ngoài hợp đồng trong Bộ luật Dân sự Việt Nam năm 2015.
+
+## Chi tiết linh tinh

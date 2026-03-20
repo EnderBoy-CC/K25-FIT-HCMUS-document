@@ -4,12 +4,9 @@ Lý thuyết: thầy Nguyễn Văn Thùy 💜
 
 Thực hành: ...
 
-Vì thầy Thùy nói slide, bài tập thầy soạn là tài liệu nội bộ chỉ dành cho lớp nên mình tôn trọng thầy và không lấy chia sẻ nhé, thay vào đó là tài liệu VTP2 mình sưu tầm được. Tuy nhiên tài liệu VTP2 ngoài phần riêng tư gồm slide tóm tắt bài giảng và bài tập về nha thì đó chính là các video môn học công khai trên kênh YouTube của thầy.
+Vì "Tất cả các thông tin bài giảng trong trang classroom môn học chỉ được dùng cho cá nhân Anh Chị trong lớp học, không được công bố ra bên ngoài", thay vào đó là tài liệu VTP2 mình sưu tầm được. Tuy nhiên tài liệu VTP2 ngoài phần riêng tư gồm slide tóm tắt bài giảng và bài tập về nha thì đó chính là các video môn học công khai trên kênh YouTube của thầy.
 
-Điểm thành phần:
--
--
--
+Điểm thành phần: Các bạn xem trong Đề cương VTP2 nhé, ngoài ra thì có điểm + là nộp bài tận hằng tuần (chỉ duy nhất 1 bài 🤯).
 
 # Chi tiết linh tinh
 
