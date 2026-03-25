@@ -11,3 +11,6 @@ Vì "Tất cả các thông tin bài giảng trong trang classroom môn học ch
 # Chi tiết linh tinh
 
 Môn này thì lớp lý thuyết học và lấy tài liệu trên Google Classroom của thầy, tất cả các lớp thầy không điểm danh.
+
+Điểm thành phần lớp TH:
+![Điểm lớp TH]()

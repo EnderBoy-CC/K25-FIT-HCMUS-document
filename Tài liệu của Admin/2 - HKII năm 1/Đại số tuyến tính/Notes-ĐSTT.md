@@ -13,3 +13,7 @@ Thực hành: thầy Nguyễn Thành Lộc
 - Thi CK: 45%
 
 Well môn này không có lớp trên moodle :v
+
+## Chi tiết linh tinh
+
+Các bạn bắt buộc phải có mặt trước 7h30 vì đó là giờ điểm danh, sau giờ này đi học trễ sẽ bị coi là vắng.
