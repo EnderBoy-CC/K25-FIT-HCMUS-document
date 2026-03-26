@@ -14,4 +14,6 @@ Trợ giảng: thầy Huỳnh Lâm Hải Đăng
 
 # Chi tiết linh tinh
 
-Yeah dính ông thầy dạy NMCNTT hồi HK1 cho nên lớp vẫn không điểm danh, thầy hay giao bài tập trên lớp để làm và nộp sau tiết 1-2 tiếng cho nên tốt hơn hết nên đi học để có thể hoàn thành bài tập trên.
+Yeah dính ông thầy dạy NMCNTT hồi HK1 cho nên lớp vẫn không điểm danh, thầy hay giao bài tập trên Codeforces để làm và nộp sau tiết 1-2 tiếng cho nên tốt hơn hết nên đi học để có thể hoàn thành bài tập trên.
+
+Lớp TH có điểm danh bằng cách ký giấy.
