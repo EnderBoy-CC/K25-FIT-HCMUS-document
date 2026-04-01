@@ -15,6 +15,11 @@ Tin học cơ sở của CNTT :v Ối dồi ôi cái môn này học ngán kinh 
 
 ## Chi tiết linh tinh
 
+Tuần 8 được nghỉ nên không có thư mục tuần đó.
+
 Yêu cầu bài tập TH NMCNTT:
-- Tuần 1: 
-- Tuần 2:
+- Tuần 1: Định dạng 3 file word 003 005 202 sao cho giống file PDF tương ứng nhất có thể.
+- Tuần 2: Excel
+- Tuần 3: Powerpoint
+- Tuần 4:
+- Tuần 5:
