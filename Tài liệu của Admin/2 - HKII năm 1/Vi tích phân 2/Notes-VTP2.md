@@ -16,3 +16,4 @@ Lớp thực hành có điểm danh đầu buổi, nhớ đi sớm, đi trễ th
 
 Điểm thành phần lớp TH:
 ![Điểm lớp TH]()
+>>>>>>> 59999bec78a9b3532b589799b43f0b685eecb2b0

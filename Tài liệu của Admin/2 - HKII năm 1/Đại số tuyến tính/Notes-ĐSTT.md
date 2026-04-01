@@ -17,3 +17,4 @@ Well môn này không có lớp trên moodle :v
 ## Chi tiết linh tinh
 
 Các bạn bắt buộc phải có mặt trước 7h30 vì đó là giờ điểm danh, sau giờ này đi học trễ sẽ bị coi là vắng.
+>>>>>>> 59999bec78a9b3532b589799b43f0b685eecb2b0

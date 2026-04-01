@@ -12,3 +12,9 @@ Thực hành: thầy Nguyễn Duy Lộc
 - Điểm CK: %
 
 Tin học cơ sở của CNTT :v Ối dồi ôi cái môn này học ngán kinh khủng. Môn này thì bạn bắt buộc phải tự kiếm thành viên nhóm
+
+## Chi tiết linh tinh
+
+Yêu cầu bài tập TH NMCNTT:
+- Tuần 1: 
+- Tuần 2:
