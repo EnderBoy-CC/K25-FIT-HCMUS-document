@@ -16,6 +16,6 @@ Ban đầu mình được miễn học tiếng Anh do đã nộp chứng chỉ n
 
 Vẫn đang được cập nhật...
 
-## <Hello World>
+## Hello World
 
 Oa cái gì đây?
