@@ -19,7 +19,7 @@ Yeah dính ông thầy dạy NMCNTT hồi HK1 cho nên lớp vẫn không điể
 Lớp TH có điểm danh bằng cách ký giấy, nhưng từ tuần 4 thì chỉ cần điểm danh bằng cách submit bài lên Codeforces, không cần kí, ngon.
 
 Danh sách các bài tập ở lớp TH DSA:
-- Tuần 1:
+- Tuần 1: nháp và 
 - Tuần 2:
 - Tuần 3:
 - Tuần 4:
