@@ -19,7 +19,7 @@ Tuần 8 được nghỉ nên không có thư mục tuần đó.
 
 1 tiết Thực hành sẽ có 1 Bài tập trên lớp (BTTL), deadline thường đến 23h cùng ngày và 1 Bài tập về nhà (BTVN), deadline 1 tuần.
 
-Yêu cầu bài tập TH NMCNTT:
+Yêu cầu bài tập TH NMCNTT (tuần 8 nghỉ nên không có bài):
 - Tuần 1: Định dạng 3 file word 003 005 202 sao cho giống file PDF tương ứng nhất có thể.
 - Tuần 2: Excel
 - Tuần 3: Powerpoint
