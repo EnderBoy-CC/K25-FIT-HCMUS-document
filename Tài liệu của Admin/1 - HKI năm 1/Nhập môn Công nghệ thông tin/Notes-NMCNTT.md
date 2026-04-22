@@ -27,3 +27,5 @@ Yêu cầu bài tập TH NMCNTT (tuần 8 nghỉ nên không có bài):
 - Tuần 5: từ tuần này trở đi có 1 BT nhóm và cá nhân, 
 - Tuần 6:
 - Tuần 7:
+- Tuần 8:
+- Tuần 9:
