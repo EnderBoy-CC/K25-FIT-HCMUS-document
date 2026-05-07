@@ -14,5 +14,7 @@ Môn này thì lớp lý thuyết học và lấy tài liệu trên Google Class
 
 Lớp thực hành có điểm danh đầu buổi, nhớ đi sớm, đi trễ thì bị ghi chú trễ ấy.
 
+Well, sau 3 lần bị tách lớp thì môn cuối cho nguyên lớp thi chung cả, không hiểu tại sao:>
+
 Điểm thành phần lớp TH:
 ![Điểm lớp TH]()
