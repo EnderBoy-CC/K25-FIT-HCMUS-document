@@ -18,7 +18,7 @@ Yeah dính ông thầy dạy NMCNTT hồi HK1 cho nên lớp vẫn không điể
 
 Lớp TH có điểm danh bằng cách ký giấy, nhưng từ tuần 4 thì chỉ cần điểm danh bằng cách submit bài lên Codeforces, không cần kí, ngon.
 
-Có 6 lớp CTT thì mỗi lớp mình được thầy chơi quả thi tập trung DSA, cho đề riêng 😭
+Có 6 lớp CTT thì mỗi lớp mình được thầy chơi quả thi tập trung DSA, cho đề riêng 😭 và lớp bị chia thành 2 phòng để thi tương ứng lớp A và B.
 
 Danh sách các bài tập ở lớp TH DSA:
 - Tuần 1: nháp và làm thử, ôn tập Stack và Queue 
