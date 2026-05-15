@@ -18,3 +18,5 @@ Well, sau 3 lần bị tách lớp thì môn cuối cho nguyên lớp thi chung 
 
 Điểm thành phần lớp TH:
 ![Điểm lớp TH]()
+
+1 vài lưu ý về cách chấm điểm (hề) của thầy: nếu bài bạm chấm được 10 điểm, thầy sẽ xét xem có dùng thước kẻ đường phân số, căn (-0.5 mỗi lần kẻ tay), quên ghi dấu ô vuông kết thúc bài (-0.5 mỗi câu quên) 😭
