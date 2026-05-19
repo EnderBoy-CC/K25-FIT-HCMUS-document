@@ -23,8 +23,10 @@ Có 6 lớp CTT thì mỗi lớp mình được thầy chơi quả thi tập tru
 Danh sách các bài tập ở lớp TH DSA:
 - Tuần 1: nháp và làm thử, ôn tập Stack và Queue 
 - Tuần 2: 2 bài Binary Search
-- Tuần 3:
-- Tuần 4:
+- Tuần 3: 2 bài Sort Basics
+- Tuần 4: sự cố nên nghỉ
 - Tuần 5:
 - TUần 6:
 - Tuần 7:
+
+OK thì môn này có điểm thành phần là 1 Sort - Benchmark
