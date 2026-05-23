@@ -33,6 +33,7 @@ Danh sách 14 chủ đề (của lớp mình):
 - Chủ đề 12: Tìm hiểu nội dung về hình phạt đối với cá nhân phạm tội.
 - Chủ đề 13: Tìm hiểu nội dung về thừa kế bộ luật dân sự 2015.
 - Chủ đề 14: Tìm hiểu nội dung về bồi thường thiệt hại ngoài hợp đồng trong Bộ luật Dân sự Việt Nam năm 2015.
+- Chủ đề 15 (do bị dư người nên lập nhóm mới, cô giao chủ đề mới luôn): Tìm hiểu nội dung về tham nhũng...
 
 ## Chi tiết linh tinh
 
