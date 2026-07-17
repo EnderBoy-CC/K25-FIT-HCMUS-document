@@ -38,3 +38,5 @@ Danh sách 14 chủ đề (của lớp mình):
 ## Chi tiết linh tinh
 
 Well cô dễ, lấy điểm ngon nhưng mà học được nói chuyện, làm ồn nhé ;-;
+
+Lần đầu đi thi môn chính trị đầu tiên khá là suôn sẻ, mình để những file hữu dụng nhất...
