@@ -12,9 +12,10 @@ Giảng viên: cô Trần Hương Thảo
 
 # Chi tiết linh tinh
 
-Buổi đầu trường cúp điện nên học online :))) Cô gửi link cũng như thông tin đầy đủ qua mail sinh viên.
+Buổi đầu trường cúp điện nên học online :))) Theo lịch thì chỉ học 6 buổi tương ứng 3 tuần. Cô gửi link cũng như thông tin đầy đủ qua mail sinh viên.
 
 Quy định của lớp:
+- Nghỉ có phép (điền link xin phép bằng mail sinh viên) lần đầu được miễn trừ, từ những lần sau trừ 5% tổng điểm môn.
 - 
 
 Đề thi trắc nghiệm 55 câu, đề mở... 40 câu trắc nghiệm 45', trong sách 0.15đ, suy luận lý thuyết -> thực tế 0.25đ, kết hợp lý thuyst -> thực tế 0.35,

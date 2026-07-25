@@ -10,4 +10,6 @@ Thay vì cho các bạn tự lựa thành viên làm nhóm thuyết trình thì 
 
 # Chi tiết linh tinh
 
-Mình không biết tại sao những môn chính trị thi cuối kì kì này (Triết, KTCT, LSĐCSVN, CNXHKH, TTHCM) là do khoa Lý luận chính trị ĐHQG ra...
+Môn này có lớp trên Moodle của trường để lấy các tài liệu cần thiết.
+
+Mình không biết tại sao những môn chính trị thi cuối kì kì này (Triết, KTCT, LSĐCSVN, CNXHKH, TTHCM) là do khoa Lý luận chính trị ĐHQG ra đề đều bắt thu lại đề hết, nên đề dưới cũng là mình chép từ nháp ra.

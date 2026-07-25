@@ -6,4 +6,6 @@ Giảng viên: TS. Bùi Thanh Tùng
 
 # Chi tiết linh tinh
 
-Đề thi...
+Môn này có lớp trên Moodle của trường để lấy các tài liệu cần thiết.
+
+Đề thi theo các mẫu qua nhiều năm đều chỉ có 2 câu.
