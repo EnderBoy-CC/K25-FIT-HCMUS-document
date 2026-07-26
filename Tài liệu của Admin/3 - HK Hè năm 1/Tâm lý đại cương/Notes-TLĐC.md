@@ -1,5 +1,7 @@
 # TÂM LÝ ĐẠI CƯƠNG - BAA
 
+## Giới thiệu sơ lược
+
 Giảng viên: cô Trần Hương Thảo
 
 Điểm: Hàng "Đóng góp ý kiến": 10 lần 10 điểm, lớp trưởng được thêm cột này.
@@ -10,12 +12,14 @@ Giảng viên: cô Trần Hương Thảo
 | Đóng góp ý kiến | Theo lịch giảng dạy | Tự phát biểu ý kiến | Thêm 5% |
 | Thi cuối kỳ | Theo lịch trường | Trắc nghiệm, đề mở | 55% |
 
-# Chi tiết linh tinh
+## Chi tiết linh tinh
 
 Buổi đầu trường cúp điện nên học online :))) Theo lịch thì chỉ học 6 buổi tương ứng 3 tuần. Cô gửi link cũng như thông tin đầy đủ qua mail sinh viên.
 
 Quy định của lớp:
 - Nghỉ có phép (điền link xin phép bằng mail sinh viên) lần đầu được miễn trừ, từ những lần sau trừ 5% tổng điểm môn.
 - 
+
+Việc chia nhóm sẽ bắt buộc 15 người và có quyền tự chọn người.
 
 Đề thi trắc nghiệm 55 câu, đề mở... 40 câu trắc nghiệm 45', trong sách 0.15đ, suy luận lý thuyết -> thực tế 0.25đ, kết hợp lý thuyst -> thực tế 0.35,
