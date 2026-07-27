@@ -6,4 +6,4 @@ Giảng viên:
 
 Điểm:
 
-# Chi tiết linh tinh
+## Chi tiết linh tinh
