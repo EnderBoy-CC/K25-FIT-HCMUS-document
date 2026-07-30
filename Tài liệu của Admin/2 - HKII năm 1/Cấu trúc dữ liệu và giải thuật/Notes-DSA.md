@@ -12,13 +12,13 @@ Trợ giảng: thầy Huỳnh Lâm Hải Đăng
 
 Điểm thành phần: Các bạn xem trong đề cương môn DSA giùm nhé 💜
 
-# Chi tiết linh tinh
+## Chi tiết linh tinh
 
 Yeah dính ông thầy dạy NMCNTT hồi HK1 cho nên lớp vẫn không điểm danh, thầy hay giao bài tập trên Codeforces để làm và nộp sau tiết 1-2 tiếng cho nên tốt hơn hết nên đi học để có thể hoàn thành bài tập trên.
 
 Lớp TH có điểm danh bằng cách ký giấy, nhưng từ tuần 4 thì chỉ cần điểm danh bằng cách submit bài lên Codeforces, không cần kí, ngon.
 
-Có 6 lớp CTT thì mỗi lớp mình được thầy chơi quả thi tập trung DSA, cho đề riêng 😭 và lớp bị chia thành 2 phòng để thi tương ứng lớp A và B.
+Có 6 lớp CTT thì mỗi lớp mình được thầy chơi quả thi tập trung DSA, cho đề riêng 😭 và lớp bị chia thành 2 phòng để thi tương ứng lớp A và B. Đề thi CK làm trực tiếp trên đề và nộp lại.
 
 Danh sách các bài tập ở lớp TH DSA:
 - Tuần 1: nháp và làm thử, ôn tập Stack và Queue 
@@ -29,4 +29,4 @@ Danh sách các bài tập ở lớp TH DSA:
 - TUần 6:
 - Tuần 7:
 
-OK thì môn này có điểm thành phần là 1 Sort - Benchmark
+OK thì môn này có điểm thành phần là 1 Sort - Benchmark, cho thầy trợ giảng chấm. Thầy hỏi gắt né AI.
