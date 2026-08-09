@@ -14,6 +14,9 @@ Hướng dẫn tải file chặn download (thực chất là screenshot trong th
 
 Ban đầu mình được miễn học tiếng Anh do đã nộp chứng chỉ ngoại ngữ, sau này nếu mình có học thì mình sẽ để tài liệu ở đây 💜
 
+1 vài nguồn ngoài tài liệu học tập:
+https://handbook.bhtcnpm.com/
+
 Vẫn đang được cập nhật...
 
 ## Hello World
