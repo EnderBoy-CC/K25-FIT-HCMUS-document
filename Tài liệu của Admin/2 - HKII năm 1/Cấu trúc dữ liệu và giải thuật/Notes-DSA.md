@@ -25,8 +25,11 @@ Danh sách các bài tập ở lớp TH DSA:
 - Tuần 2: 2 bài Binary Search
 - Tuần 3: 2 bài Sort Basics
 - Tuần 4: sự cố nên nghỉ
-- Tuần 5:
-- TUần 6:
+- Tuần 5: 2 bài Sort Advanced (A: , B: Quick Sort với Middle Pivot, 1 bài toán dùng Merge Sort)
+- TUần 6: 2 bài Hash Table
 - Tuần 7:
+- Tuần 8:
+- Tuần 9:
+- Tuần 10: 
 
 OK thì môn này có điểm thành phần là 1 Sort - Benchmark, cho thầy trợ giảng chấm. Thầy hỏi gắt né AI.
