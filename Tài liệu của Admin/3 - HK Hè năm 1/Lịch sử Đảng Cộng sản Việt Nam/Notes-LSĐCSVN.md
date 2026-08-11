@@ -5,6 +5,7 @@
 Giảng viên: TS. Đào Duy Tùng
 
 Điểm thành phần: 50% gồm cột chuyên cần, điểm danh bất kỳ, đi học đầy đủ được 8, điểm danh ngẫu nhiên, vắng 1 trừ 1, được vắng có phép 1 buổi, phát biểu 1 lần 0.2 điểm, cột GK được làm 1 bài kiểm tra Google Form trắc nghiệm 50 câu, làm tiểu luận cá nhân / nhóm không quá 5 người, nộp trước buổi 6. 50% này tính bằng cột đi học + cột GK rồi chia 2 + điểm cộng. 50% thi CK.
+20% chuyên cần 30% tiểu luận?
 
 ## Chi tiết linh tinh
 
