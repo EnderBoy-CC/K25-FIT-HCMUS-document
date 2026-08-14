@@ -20,6 +20,6 @@ Quy định của lớp:
 - Nghỉ có phép (điền link xin phép bằng mail sinh viên) lần đầu được miễn trừ, từ những lần sau trừ 5% tổng điểm môn.
 - 
 
-Việc chia nhóm sẽ bắt buộc 15 người và có quyền tự chọn người. Cô giảng bài chỉ bằng cách viết trên bảng. Bài tập mỗi buổi bắt buộc có báo cáo bằng giấy A4 gồm:...
+Việc chia nhóm sẽ bắt buộc 15 người và có quyền tự chọn người. Cô giảng bài chỉ bằng cách viết trên bảng. Bài tập mỗi buổi bắt buộc có báo cáo bằng giấy A4 gồm: Bài cảm giác - tri giác (), Bài ().
 
-Đề thi trắc nghiệm 55 câu, đề mở... 40 câu trắc nghiệm 45', trong sách 0.15đ, suy luận lý thuyết -> thực tế 0.25đ, kết hợp lý thuyst -> thực tế 0.35,
+Đề thi trắc nghiệm 55 câu, đề mở... 40 câu trắc nghiệm 45', trong sách 0.15đ, suy luận lý thuyết -> thực tế 0.25đ, kết hợp lý thuyết -> thực tế 0.35,
