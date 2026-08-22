@@ -21,6 +21,7 @@ Quy định của lớp:
 - 
 
 Việc chia nhóm sẽ bắt buộc 15 người và có quyền tự chọn người. Cô giảng bài chỉ bằng cách viết trên bảng. Bài tập mỗi buổi bắt buộc có báo cáo bằng giấy A4 gồm 7 bài: Bài cảm giác - tri giác (xem file hướng dẫn), Bài (tưởng tượng), Bài tập thuyết trình, Bài tập tìm các công thức toán lý hóa tương ứng 6 định luật Xúc cảm - Tình cảm, Bài cuối là Ý trí (kiên trì làm gì đó trong 2 tuần, nhóm mình chọn đi bộ 4k bước mỗi ngày, ghi lại bằng app và gửi screenshot mỗi ngày).
+Lưu ý bài cuối phải dùng app Strava để cô có thể vào nhóm các thành viên và kiểm tra quá trình đi cho tiện, dùng app khác chỉ trường hợp đặc biệt (tụi mình vì không được cô thông báo kỹ nên mới dùng được Google Fit).
 
 Đề thi trắc nghiệm 55 câu, đề mở... 40 câu trắc nghiệm 45', trong sách 0.15đ, suy luận lý thuyết -> thực tế 0.25đ, kết hợp lý thuyết -> thực tế 0.35,
 
