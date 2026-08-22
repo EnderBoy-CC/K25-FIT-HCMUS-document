@@ -26,8 +26,8 @@ Danh sách các bài tập ở lớp TH DSA:
 - Tuần 3: 2 bài Sort Basics
 - Tuần 4: sự cố nên nghỉ
 - Tuần 5: 2 bài Sort Advanced (A: , B: Quick Sort với Middle Pivot, 1 bài toán dùng Merge Sort)
-- TUần 6: 2 bài Hash Table
-- Tuần 7:
+- TUần 6: 2 bài Hash Table, bắt đầu mở Sort Benchmark 1
+- Tuần 7: 2 bài Tree, bắt đầu mở Sort Benchmark 2
 - Tuần 8:
 - Tuần 9:
 - Tuần 10: 
